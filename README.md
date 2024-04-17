@@ -32,7 +32,7 @@ __autoprefixer__: 스타일에 자동으로 공급 업체 접두사(Vendor prefi
 
 ## 이 템플릿 복사해서 쓰기
 
-- `npx degit hui3363/webpack-template-basic [새로운 폴더 이름]`
+- `npx degit hui3363/webpack-template [새로운 폴더 이름]`
 - `cd 새로운 폴더`
 - `code . -r` (현재폴더를 vscode 창에 열기)  
 ( npx degit : 특정 git 계정의 리파지토리를 내 로컬 폴더에 복사하는 명령어 )
